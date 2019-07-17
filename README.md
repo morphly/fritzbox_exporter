@@ -8,8 +8,8 @@ This exporter is tested with a Fritzbox 7490 and 7390 with software version 06.5
 
 ## Building
 
-    go get github.com/ndecker/fritzbox_exporter/
-    cd $GOPATH/src/github.com/ndecker/fritzbox_exporter
+    go get github.com/morphly/fritzbox_exporter/
+    cd $GOPATH/src/github.com/morphly/fritzbox_exporter
     go install
 
 ## Running
